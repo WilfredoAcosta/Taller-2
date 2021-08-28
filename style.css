@@ -357,18 +357,18 @@ div.table-title {
 
 /*Footer*/
 footer{
-  width: 100%;
+
   background-color: #000000;
   color: white;
-  padding: 20px;
-  
+  padding: 30px;
+  text-align: center;
 
 }
 
 .footer{
-    padding:30px;
+  
     font-size: 20px;
     font-weight: 800;
     text-align: center;
-    width: 100%;
+   
 }
